@@ -1,2 +1,3 @@
 # Rainbow-Scratch
-A program that we create in Scratch
+I design a program in scratch and made the rainbow with blocks.
+
